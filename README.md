@@ -1,4 +1,4 @@
-```markdown
+
 # UET Prospectus RAG Chatbot
 
 A production-quality **Retrieval-Augmented Generation (RAG)** chatbot that answers questions
@@ -194,4 +194,3 @@ Every thumbs-up / thumbs-down in the chat UI is appended to `logs/feedback.jsonl
 - **Answers seem to be missing content you know is in the prospectus**: check
   `SIMILARITY_THRESHOLD` in `config.py` first — too strict a threshold silently discards
   valid matches before the LLM ever sees them
-```
