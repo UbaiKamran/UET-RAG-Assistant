@@ -5,7 +5,8 @@ grounded exclusively in the UET undergraduate prospectus — with source citatio
 decline when a question is out of scope.
 
 ---
-
+## App is Live here
+Live link : uet-rag-assistant.streamlit.app
 ## Folder Structure
 
 ```
