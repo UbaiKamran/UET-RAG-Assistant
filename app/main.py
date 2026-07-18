@@ -134,4 +134,4 @@ if question := st.chat_input("Ask a question about the UET Prospectus..."):
 # ---------------------------------------------------------------------------
 st.markdown("---")
 st.caption("📖 Knowledge source: Undergraduate Prospectus 2026")
-st.caption("✨ Created by Ubai Kamran")
+st.caption("Created by Ubai Kamran")
