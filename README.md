@@ -6,7 +6,7 @@ decline when a question is out of scope.
 
 ---
 ## App is Live here
-Live link : uet-rag-assistant.streamlit.app
+Live link : https://uet-rag-assistant.streamlit.app/
 ## Folder Structure
 
 ```
