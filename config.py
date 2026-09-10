@@ -41,7 +41,7 @@ BOOST_DELTA         = 0.10      # score improvement for metadata/keyword match
 # ---------------------------------------------------------------------------
 # Generation (Groq API)
 # ---------------------------------------------------------------------------
-GROQ_MODEL   = "llama-3.3-70b-versatile"   # swap to any Groq model slug here
+GROQ_MODEL   = "qwen/qwen3.6-27b"   # swap to any Groq model slug here
 # e.g.  "openai/gpt-oss-120b"
 #       "llama-3.1-8b-instant"
 #       "qwen-qwen3-32b"
