@@ -41,12 +41,12 @@ BOOST_DELTA         = 0.10      # score improvement for metadata/keyword match
 # ---------------------------------------------------------------------------
 # Generation (Groq API)
 # ---------------------------------------------------------------------------
-GROQ_MODEL   = "qwen/qwen3.6-27b"   # swap to any Groq model slug here
+GROQ_MODEL   = "openai/gpt-oss-120b"   # swap to any Groq model slug here
 # e.g.  "openai/gpt-oss-120b"
 #       "llama-3.1-8b-instant"
 #       "qwen-qwen3-32b"
 #       "mixtral-8x7b-32768"
-MAX_TOKENS   = 1024
+MAX_TOKENS   = 2048
 TEMPERATURE  = 0.1
 
 # ---------------------------------------------------------------------------
